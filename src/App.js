@@ -1,6 +1,6 @@
 import React from "react";
 import { QueryClient, QueryClientProvider } from "react-query";
-import Dropdown from "./components/dropDowns";
+import Dropdown from "./components/dropDowns1";
 import "./App.css";
 
 const queryClient = new QueryClient();
